@@ -13,7 +13,7 @@ You will find the programs arranged in week wise manner to ease beginner to lear
 an efficient manner. For every topic there are some practice problem along with tutorial 
 sheets.
 (base) rishabh@rishabh-VPCEH3AEN:~/Downloads/P_cube-master$ tree
-.
+```
 ├── 1D Arrays
 │   
 ├── loops_level_1
@@ -62,5 +62,5 @@ sheets.
     ├── Backtracking 2
     │   
     └── Standard template library
-        
+```    
         
