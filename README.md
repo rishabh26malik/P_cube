@@ -1,7 +1,6 @@
-# Coding in c++ 
-<div align="center" style="margin: 20px" >
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="200" width="200">
-</div>
+<p> <h2>Coding in c++</h2> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="200" width="200" align="right">
+  </p>
 This repository contains practice programming questions in c++ and python
 
 The programming questions are arranged topicwise which are aas follows :
