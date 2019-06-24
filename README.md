@@ -12,7 +12,6 @@ The programming questions are arranged topicwise which are aas follows :
 You will find the programs arranged in week wise manner to ease beginner to learn coding in
 an efficient manner. For every topic there are some practice problem along with tutorial 
 sheets.
-(base) rishabh@rishabh-VPCEH3AEN:~/Downloads/P_cube-master$ tree
 ```
 ├── 1D Arrays
 │   
