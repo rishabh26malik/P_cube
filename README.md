@@ -8,6 +8,8 @@ The programming questions are arranged topicwise which are aas follows :
 5) 1D array
 6) 2D array
 7) Strings
+8) Backtracking
+9) Standard template library
 
 You will find the programs arranged in week wise manner to ease beginner to learn coding in
 an efficient manner. For every topic there are some practice problem along with tutorial 
