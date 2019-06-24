@@ -1,6 +1,6 @@
 # Coding in c++ 
 <div align="center" style="margin: 20px" >
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="200" width="700">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="200" width="200">
 </div>
 This repository contains practice programming questions in c++ and python
 
